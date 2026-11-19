@@ -1,38 +1,17 @@
 [
   {
-    "type": "airport",
     "city": "Genève",
     "country": "Suisse",
     "code": "GVA"
   },
   {
-    "type": "airport",
-    "city": "Paris",
-    "country": "France",
-    "code": "CDG"
-  },
-  {
-    "type": "airport",
-    "city": "Paris",
-    "country": "France",
-    "code": "ORY"
-  },
-  {
-    "type": "airport",
     "city": "Tokyo",
     "country": "Japon",
     "code": "HND"
   },
   {
-    "type": "airport",
     "city": "Tokyo",
     "country": "Japon",
     "code": "NRT"
-  },
-  {
-    "type": "airport",
-    "city": "Bangkok",
-    "country": "Thaïlande",
-    "code": "BKK"
   }
 ]
